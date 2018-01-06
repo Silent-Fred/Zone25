@@ -12,7 +12,7 @@ class PomodoroNotifications {
 
     static let durationPerPomodoro = 25 * 60 // 25 minutes in seconds
     static let durationPerShortBreak = 5 * 60 // 5 minutes
-    static let durationPerLongBreak = 15 * 50 // 15 minutes
+    static let durationPerLongBreak = 15 * 60 // 15 minutes
 
     static let numberOfPomodoriPerRun = 4
 
